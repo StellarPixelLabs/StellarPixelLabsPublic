@@ -1,0 +1,15 @@
+# Stellar Pixel Labs Public
+© [2024] [StellarPixelLabs]. This work is licensed under a Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-nd/4.0/.
+
+This repository contains the official icons and images of StellarPixelLabs. These assets are provided for informational purposes only and are not to be used without explicit permission from StellarPixelLabs.
+
+## License
+
+The contents of this repository, including all images and icons, are subject to the following terms:
+
+- The images and icons are for viewing purposes only.
+- No commercial use is permitted.
+- No derivative works or modifications are allowed.
+- Attribution to StellarPixelLabs is required for any use.
+
+For any permissions beyond these terms, please contact StellarPixelLabs.
